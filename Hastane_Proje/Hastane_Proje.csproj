@@ -209,6 +209,19 @@
     <Content Include="Resources\hasta5.png" />
     <Content Include="Resources\kalp.png" />
     <Content Include="Resources\sekreter4.png" />
+    <Content Include="screenshots\Giriş Paneli.png" />
+    <Content Include="screenshots\Hasta Paneli.png" />
+    <Content Include="screenshots\Doktor CRUD.png" />
+    <Content Include="screenshots\Randevu Listesi.png" />
+    <Content Include="screenshots\Duyurular.png" />
+    <Content Include="screenshots\Doktor Paneli.png" />
+    <Content Include="screenshots\Branş CRUD.png" />
+    <Content Include="screenshots\Sekreter Paneli.png" />
+    <Content Include="screenshots\Hasta Login.png" />
+    <Content Include="screenshots\Hasta Kayıt.png" />
+    <Content Include="screenshots\Sekreter Login.png" />
+    <Content Include="screenshots\Doktor Login.png" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
